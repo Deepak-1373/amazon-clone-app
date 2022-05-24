@@ -53,12 +53,9 @@ npm install
 ```
 YOUR_STRIPE_SECRET_KEY = <Paste your secret key>
 ```
+- You also need to start the backend server by opening a terminal having path `amazon-clone/functions` and then you need to run ```firebase emulators:start```.
 
-- Start the server🚀
-
-```
-npm start
-```
+- After that you can run your application in new terminal while the backend is running by entering `npm start` command in new terminal.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/61752151/169872462-0f8979bf-e47f-4de9-916d-8150fe4dc4f8.png)
